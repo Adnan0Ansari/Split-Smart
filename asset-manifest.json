@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/split-smart/static/css/main.172537a4.css",
+    "main.js": "/split-smart/static/js/main.f9a02aea.js",
+    "static/media/dm-sans-latin-500-normal.woff": "/split-smart/static/media/dm-sans-latin-500-normal.ed11bdb46a5adfbb6416.woff",
+    "static/media/dm-sans-latin-700-normal.woff": "/split-smart/static/media/dm-sans-latin-700-normal.4572dd29358123752875.woff",
+    "static/media/dm-sans-latin-400-normal.woff": "/split-smart/static/media/dm-sans-latin-400-normal.2c8c7be0365aecdaf260.woff",
+    "static/media/dm-sans-latin-600-normal.woff": "/split-smart/static/media/dm-sans-latin-600-normal.eed54baa89357289df02.woff",
+    "static/media/space-mono-latin-700-normal.woff2": "/split-smart/static/media/space-mono-latin-700-normal.e3ffa3c0f42fbe8914df.woff2",
+    "static/media/space-mono-latin-400-normal.woff2": "/split-smart/static/media/space-mono-latin-400-normal.9f0479b996ad804e7f46.woff2",
+    "static/media/space-mono-latin-ext-400-normal.woff2": "/split-smart/static/media/space-mono-latin-ext-400-normal.b443a026278d222559a4.woff2",
+    "static/media/space-mono-latin-ext-700-normal.woff2": "/split-smart/static/media/space-mono-latin-ext-700-normal.db1d9c64e5ba15176a5e.woff2",
+    "static/media/dm-sans-latin-700-normal.woff2": "/split-smart/static/media/dm-sans-latin-700-normal.7747fc5114170ad2f6c7.woff2",
+    "static/media/dm-sans-latin-500-normal.woff2": "/split-smart/static/media/dm-sans-latin-500-normal.95be878c7de25e1db4c0.woff2",
+    "static/media/dm-sans-latin-400-normal.woff2": "/split-smart/static/media/dm-sans-latin-400-normal.97def203da337e26d827.woff2",
+    "static/media/dm-sans-latin-600-normal.woff2": "/split-smart/static/media/dm-sans-latin-600-normal.734311c3c530f3ad138e.woff2",
+    "static/media/space-mono-latin-ext-400-normal.woff": "/split-smart/static/media/space-mono-latin-ext-400-normal.57e57c333b1bf3fccf27.woff",
+    "static/media/space-mono-latin-ext-700-normal.woff": "/split-smart/static/media/space-mono-latin-ext-700-normal.a858a947aa5eb2a62bb7.woff",
+    "static/media/space-mono-latin-700-normal.woff": "/split-smart/static/media/space-mono-latin-700-normal.6350d49263fef4f675f4.woff",
+    "static/media/space-mono-latin-400-normal.woff": "/split-smart/static/media/space-mono-latin-400-normal.44f47718c73459b963cd.woff",
+    "static/media/dm-sans-latin-ext-500-normal.woff": "/split-smart/static/media/dm-sans-latin-ext-500-normal.51a1ede8bf3ecdcfa592.woff",
+    "static/media/dm-sans-latin-ext-600-normal.woff": "/split-smart/static/media/dm-sans-latin-ext-600-normal.f5a963e83cdf4660b80d.woff",
+    "static/media/dm-sans-latin-ext-700-normal.woff": "/split-smart/static/media/dm-sans-latin-ext-700-normal.534537dfd39d9e6da13c.woff",
+    "static/media/dm-sans-latin-ext-400-normal.woff": "/split-smart/static/media/dm-sans-latin-ext-400-normal.a670f2d2237866916178.woff",
+    "static/media/dm-sans-latin-ext-700-normal.woff2": "/split-smart/static/media/dm-sans-latin-ext-700-normal.0256f71a1ff29dc6b6d3.woff2",
+    "static/media/dm-sans-latin-ext-500-normal.woff2": "/split-smart/static/media/dm-sans-latin-ext-500-normal.50b040ac644772dcb734.woff2",
+    "static/media/dm-sans-latin-ext-600-normal.woff2": "/split-smart/static/media/dm-sans-latin-ext-600-normal.cb3fc28955a7656c13e2.woff2",
+    "static/media/dm-sans-latin-ext-400-normal.woff2": "/split-smart/static/media/dm-sans-latin-ext-400-normal.2d149d08ff5a20db3296.woff2",
+    "static/media/space-mono-vietnamese-700-normal.woff2": "/split-smart/static/media/space-mono-vietnamese-700-normal.854c9a1dc0e6bdc23b0a.woff2",
+    "static/media/space-mono-vietnamese-400-normal.woff2": "/split-smart/static/media/space-mono-vietnamese-400-normal.14f1baa9467c9d3dfdf5.woff2",
+    "static/media/space-mono-vietnamese-700-normal.woff": "/split-smart/static/media/space-mono-vietnamese-700-normal.4635ef2d6b15f7a1ee7c.woff",
+    "static/media/space-mono-vietnamese-400-normal.woff": "/split-smart/static/media/space-mono-vietnamese-400-normal.d6f619b1ad461c119ee4.woff",
+    "index.html": "/split-smart/index.html",
+    "main.172537a4.css.map": "/split-smart/static/css/main.172537a4.css.map",
+    "main.f9a02aea.js.map": "/split-smart/static/js/main.f9a02aea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.172537a4.css",
+    "static/js/main.f9a02aea.js"
+  ]
+}
